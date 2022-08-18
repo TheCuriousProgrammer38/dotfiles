@@ -1,0 +1,3 @@
+To display custom ascii image in neofetch do
+neofetch --source ~/path_to_image 
+in .bashrc
